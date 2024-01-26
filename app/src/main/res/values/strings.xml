@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">LoginForm</string>
+    <string name="passwordIcon">PasswordIcon</string>
+    <string name="password">Password</string>
+    <string name="email">Email</string>
+    <string name="emailIcon">EmailIcon</string>
+    <string name="login">Login</string>
+    <string name="submit">Submit</string>
+</resources>
